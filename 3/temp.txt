@@ -1,0 +1,40 @@
+total 251
+drwxrwxr-x  3 jiakuanzhu jiakuanzhu  3072 Jun 23 20:35 .
+drwxrwxr-x 21 jiakuanzhu jiakuanzhu  1024 Jun 23 00:15 ..
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1598 Mar  2  2005 add_using.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu  9258 Jun 23 00:16 add_using.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  4149 Mar  2  2005 bits.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 28596 Jun 23 00:16 bits.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  2028 Mar  2  2005 cctype.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 14162 Jun 23 00:16 cctype.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1609 Mar  2  2005 char_repl.cc
+x-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 14002 Jun 23 00:16 char_repl.exe
+drwxrwxr-x  2 jiakuanzhu jiakuanzhu  1024 Feb  2  2005 data
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1546 Mar  2  2005 getline.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 13923 Jun 23 00:16 getline.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  2130 Mar  2  2005 init_vec.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 22745 Jun 23 00:16 init_vec.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu   584 Feb  9  2005 makefile
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu   348 Feb  2  2005 README
+-rwxrwxrwx  1 jiakuanzhu jiakuanzhu   337 Feb  2  2005 runpgms
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1678 Mar  2  2005 strcompare.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 13985 Jun 23 00:16 strcompare.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  2034 Mar  2  2005 string_add.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 14288 Jun 23 00:16 string_add.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1545 Mar  2  2005 string_io2.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu  9735 Jun 23 00:16 string_io2.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1648 Mar  2  2005 string_io.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu  9734 Jun 23 00:16 string_io.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1691 Mar  2  2005 string_size.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 14202 Jun 23 00:16 string_size.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1503 Mar  2  2005 str_vers2.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu  9156 Jun 23 00:16 str_vers2.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1521 Mar  2  2005 str_vers3.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu  9189 Jun 23 00:16 str_vers3.exe
+lrwxrwxrwx  1 jiakuanzhu jiakuanzhu    33 Jun 23 20:35 .#temp.txt -> jiakuanzhu@ubuntu.3873:1371969803
+-rw-rw-r--  1 jiakuanzhu jiakuanzhu  1598 Jun 23 20:35 temp.txt
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  2429 Mar  2  2005 vec_assign.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 16950 Jun 23 00:16 vec_assign.exe
+-rw-rw-rw-  1 jiakuanzhu jiakuanzhu  1542 Mar  2  2005 word_echo.cc
+-rwxrwxr-x  1 jiakuanzhu jiakuanzhu 13919 Jun 23 00:16 word_echo.exe
+
